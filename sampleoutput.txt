@@ -1,0 +1,233 @@
+Hugh Mann has 80 life points and is wearing Wood Armor Base with 50 armor points
+
+Please make a selection:
+1) Craft Armor
+2) View Inventory
+3) Simulate Damage
+4) Run JUnit Tests
+5) Quit
+4
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+                        Armor Tests
+---------------------------------------------------------------
+---------------------------------------------------------------
+# of tests succeeded: 32
+# of tests failed: 0
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+                        Human Tests
+---------------------------------------------------------------
+---------------------------------------------------------------
+# of tests succeeded: 28
+# of tests failed: 0
+---------------------------------------------------------------
+---------------------------------------------------------------
+Hugh Mann has 80 life points and is wearing Wood Armor Base with 50 armor points
+
+Please make a selection:
+1) Craft Armor
+2) View Inventory
+3) Simulate Damage
+4) Run JUnit Tests
+5) Quit
+1
+Welcome to the armor shop! Please choose a base material to begin crafting:
+Base Materials:
+1) Wood (50 armor)
+2) Iron (80 armor)
+3) Obsidian (100 armor)
+2
+Choose your addons:
+Armor Components:
+1) Chain mail (+15 armor)
+2) Extra Plating (+10 armor)
+3) Soft Inner Lining (+5 armor)
+4) Padded Inner Lining (+7 armor)
+5) Quit (I'm done adding things)
+1
+Armor Components:
+1) Chain mail (+15 armor)
+2) Extra Plating (+10 armor)
+3) Soft Inner Lining (+5 armor)
+4) Padded Inner Lining (+7 armor)
+5) Quit (I'm done adding things)
+2
+Armor Components:
+1) Chain mail (+15 armor)
+2) Extra Plating (+10 armor)
+3) Soft Inner Lining (+5 armor)
+4) Padded Inner Lining (+7 armor)
+5) Quit (I'm done adding things)
+5
+Your new armor is: Iron Armor Base with Chain Mail, Extra Plating
+Your new armor has 105 armor points.
+
+Hugh Mann has 80 life points and is wearing Iron Armor Base with Chain Mail, Extra Plating with 105 armor points
+
+Please make a selection:
+1) Craft Armor
+2) View Inventory
+3) Simulate Damage
+4) Run JUnit Tests
+5) Quit
+2
+Currently Equipped: Iron Armor Base with Chain Mail, Extra Plating has 105 armor points.
+
+Hugh Mann's inventory: 
+
+0) Wood Armor Base has 50 armor points.
+
+Choose an item to equip or enter "Q" to Quit 
+
+q
+Hugh Mann has 80 life points and is wearing Iron Armor Base with Chain Mail, Extra Plating with 105 armor points
+
+Please make a selection:
+1) Craft Armor
+2) View Inventory
+3) Simulate Damage
+4) Run JUnit Tests
+5) Quit
+3
+Enter a damage amount:
+100
+Hugh Mann has 80 life points and is wearing Iron Armor Base with Chain Mail, Extra Plating with 5 armor points
+
+Please make a selection:
+1) Craft Armor
+2) View Inventory
+3) Simulate Damage
+4) Run JUnit Tests
+5) Quit
+2
+Currently Equipped: Iron Armor Base with Chain Mail, Extra Plating has 5 armor points.
+
+Hugh Mann's inventory: 
+
+0) Wood Armor Base has 50 armor points.
+
+Choose an item to equip or enter "Q" to Quit 
+
+0
+Hugh Mann has 80 life points and is wearing Wood Armor Base with 50 armor points
+
+Please make a selection:
+1) Craft Armor
+2) View Inventory
+3) Simulate Damage
+4) Run JUnit Tests
+5) Quit
+2
+Currently Equipped: Wood Armor Base has 50 armor points.
+
+Hugh Mann's inventory: 
+
+0) Iron Armor Base with Chain Mail, Extra Plating has 5 armor points.
+
+Choose an item to equip or enter "Q" to Quit 
+
+3
+0) Iron Armor Base with Chain Mail, Extra Plating has 5 armor points.
+
+Choose an item to equip or enter "Q" to Quit 
+
+q
+Hugh Mann has 80 life points and is wearing Wood Armor Base with 50 armor points
+
+Please make a selection:
+1) Craft Armor
+2) View Inventory
+3) Simulate Damage
+4) Run JUnit Tests
+5) Quit
+3
+Enter a damage amount:
+55
+Hugh Mann has 75 life points and is not wearing any armor
+
+Please make a selection:
+1) Craft Armor
+2) View Inventory
+3) Simulate Damage
+4) Run JUnit Tests
+5) Quit
+1
+Welcome to the armor shop! Please choose a base material to begin crafting:
+Base Materials:
+1) Wood (50 armor)
+2) Iron (80 armor)
+3) Obsidian (100 armor)
+3
+Choose your addons:
+Armor Components:
+1) Chain mail (+15 armor)
+2) Extra Plating (+10 armor)
+3) Soft Inner Lining (+5 armor)
+4) Padded Inner Lining (+7 armor)
+5) Quit (I'm done adding things)
+4
+Armor Components:
+1) Chain mail (+15 armor)
+2) Extra Plating (+10 armor)
+3) Soft Inner Lining (+5 armor)
+4) Padded Inner Lining (+7 armor)
+5) Quit (I'm done adding things)
+4
+Armor Components:
+1) Chain mail (+15 armor)
+2) Extra Plating (+10 armor)
+3) Soft Inner Lining (+5 armor)
+4) Padded Inner Lining (+7 armor)
+5) Quit (I'm done adding things)
+3
+Armor Components:
+1) Chain mail (+15 armor)
+2) Extra Plating (+10 armor)
+3) Soft Inner Lining (+5 armor)
+4) Padded Inner Lining (+7 armor)
+5) Quit (I'm done adding things)
+2
+Armor Components:
+1) Chain mail (+15 armor)
+2) Extra Plating (+10 armor)
+3) Soft Inner Lining (+5 armor)
+4) Padded Inner Lining (+7 armor)
+5) Quit (I'm done adding things)
+1
+Armor Components:
+1) Chain mail (+15 armor)
+2) Extra Plating (+10 armor)
+3) Soft Inner Lining (+5 armor)
+4) Padded Inner Lining (+7 armor)
+5) Quit (I'm done adding things)
+5
+Your new armor is: Obsidian Armor Base with Padded Inner Lining, Padded Inner Lining, Soft Inner Lining, Extra Plating, Chain Mail
+Your new armor has 144 armor points.
+
+Hugh Mann has 75 life points and is wearing Obsidian Armor Base with Padded Inner Lining, Padded Inner Lining, Soft Inner Lining, Extra Plating, Chain Mail with 144 armor points
+
+Please make a selection:
+1) Craft Armor
+2) View Inventory
+3) Simulate Damage
+4) Run JUnit Tests
+5) Quit
+3
+Enter a damage amount:
+200
+Hugh Mann has 19 life points and is not wearing any armor
+
+Please make a selection:
+1) Craft Armor
+2) View Inventory
+3) Simulate Damage
+4) Run JUnit Tests
+5) Quit
+3
+Enter a damage amount:
+20
+Hugh Mann is now dead. Goodbye.
